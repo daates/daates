@@ -1,5 +1,5 @@
 <a href="https://github.com/daates">
-  <img src="https://i.pinimg.com/originals/e2/85/66/e285661a023fb83c8d7f975980422c22.gif" alt="forest" align="center"/>
+  <img src="https://i.pinimg.com/originals/e2/85/66/e285661a023fb83c8d7f975980422c22.gif" alt="forest" width="100%" align="center"/>
 </a>
 
 <h1 align="left">:wave: Hello there! I'm Aleksandr Antonenko</h1>
@@ -128,19 +128,19 @@
       <br>Redux
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td>
    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#daates-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -153,37 +153,37 @@
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
       <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
        </td>
       <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/logo-download/P/PostgreSQL-logo-vector-01.svg" width="36" height="36" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
        </td>
    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/logo-download/J/Java-logo-vector-01.svg" width="36" height="36" alt="Java" />
       </a>
       <br>Java
        </td>
    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#daates-stack" >
         <img src="https://brandeps.com/logo-download/R/Rails-logo-vector-01.svg" width="36" height="36" alt="Ruby on Rails" />
       </a>
       <br>Ruby on Rails
@@ -193,11 +193,9 @@
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[VK](https://vk.com/siberiacancode)**
-- :airplane: &nbsp;**[Telegram](https://vk.com/aantonenkk)**
+- :bird: &nbsp;**[VK](https://vk.com/aantonenkk)**
+- :airplane: &nbsp;**[Telegram](https://t.me/druzhisheeee)**
 - :comet: &nbsp;**[Github](https://github.com/daates)**
 
 <br>
-
-
 
